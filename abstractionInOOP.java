@@ -1,3 +1,6 @@
+//CORE JAVA ---- PITP 2 ---- Abstraction In OOP ----- 24/10/2025(Friday)
+//Muhammad Abdul Hadi Khawaja
+
 abstract class Payment {
     double amount;
 
